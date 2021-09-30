@@ -1,15 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Tutorial" type="PLAIN_TEXT" />
       <mapping ext="com/" type="PLAIN_TEXT" />
       <mapping pattern="2 - PostgreSQL ORDER BY" type="SQL" />
       <mapping pattern="14.5 - Using PostgreSQL SERIAL To Create Auto-increment Column" type="SQL" />
-      <mapping ext="12 - postgresql change column type step-by-step examples" type="SQL" />
-      <mapping ext="2 - postgresql order by" type="SQL" />
-      <mapping ext="1 - postgresql data types" type="SQL" />
-      <mapping ext="12 - postgresql change column type: step-by-step examples" type="SQL" />
       <mapping ext="3 - postgresql select into" type="SQL" />
+      <mapping ext="12 - postgresql change column type: step-by-step examples" type="SQL" />
+      <mapping ext="12 - postgresql change column type step-by-step examples" type="SQL" />
+      <mapping ext="1 - postgresql data types" type="SQL" />
+      <mapping ext="2 - postgresql order by" type="SQL" />
     </extensionMap>
   </component>
 </application>
