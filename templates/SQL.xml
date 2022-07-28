@@ -1,0 +1,30 @@
+<templateSet group="SQL">
+  <template name="sel" value="select $col$ from $table$$END$;" description="select all rows from a table" toReformat="true" toShortenFQNames="false">
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="cre" value="create table $table$ &#10;    ($col$ $type$$END$);" description="create tables" toReformat="true" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="for" value="foreign key ($col$) references $table$ ($col$$END$)" description="foreign key" toReformat="false" toShortenFQNames="true">
+    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="del" value="delete from $table$ &#10;where $columns$ = $value$$END$;" description="delete rows from table" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="columns" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
