@@ -20,6 +20,9 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.38.0" />
+    </driver>
     <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
     <driver id="e3d9d30d-c6b3-4329-ab02-ccf1e11d1376" name="User Driver [2]" driver-class="java.sql.Driver">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
