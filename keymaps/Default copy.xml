@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="context_menu" />
+  </action>
+  <action id="ShowPopupMenu" />
+</keymap>

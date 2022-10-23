@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="aaa" type="AUTO_DETECTED" />
-      <mapping pattern="meteor-poi" type="AUTO_DETECTED" />
-      <mapping pattern="SearchBar.js" type="AUTO_DETECTED" />
-      <mapping pattern="alertReducer" type="AUTO_DETECTED" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="link" type="PLAIN_TEXT" />
-      <mapping pattern="Resources" type="PLAIN_TEXT" />
-      <mapping ext="geojson" type="PLAIN_TEXT" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <mapping pattern="Tutorial" type="PLAIN_TEXT" />
+      <mapping ext="com/" type="PLAIN_TEXT" />
+      <mapping pattern="2 - PostgreSQL ORDER BY" type="SQL" />
+      <mapping pattern="14.5 - Using PostgreSQL SERIAL To Create Auto-increment Column" type="SQL" />
+      <mapping ext="3 - postgresql select into" type="SQL" />
+      <mapping ext="12 - postgresql change column type: step-by-step examples" type="SQL" />
+      <mapping ext="12 - postgresql change column type step-by-step examples" type="SQL" />
+      <mapping ext="1 - postgresql data types" type="SQL" />
+      <mapping ext=" calculated columns" type="SQL" />
+      <mapping ext=" string operators and functions" type="SQL" />
+      <mapping ext="2 - postgresql order by" type="SQL" />
     </extensionMap>
   </component>
 </application>
