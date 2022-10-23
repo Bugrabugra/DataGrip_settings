@@ -63,7 +63,6 @@
   <template name="arf" value="const $NAME$ = ($ARGUMENTS$) =&gt; {&#10;$SELECTION$&#10;};" description="Surround with Arrow Function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="nimp" value="import $VAR$ from &quot;$MODULE$&quot;;" description="Import" toReformat="false" toShortenFQNames="true">
     <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
