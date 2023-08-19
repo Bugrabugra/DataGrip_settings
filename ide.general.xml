@@ -6,6 +6,7 @@
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.tooltip.initialDelay" value="591" />
     <entry key="ide.experimental.ui" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
   </component>
 </application>
