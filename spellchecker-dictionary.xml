@@ -3,7 +3,9 @@
     <words>
       <w>cust</w>
       <w>exper</w>
+      <w>fname</w>
       <w>ints</w>
+      <w>lname</w>
     </words>
   </component>
 </application>
