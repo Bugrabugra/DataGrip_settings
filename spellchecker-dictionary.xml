@@ -6,6 +6,7 @@
       <w>fname</w>
       <w>ints</w>
       <w>lname</w>
+      <w>plpgsql</w>
     </words>
   </component>
 </application>
