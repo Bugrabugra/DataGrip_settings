@@ -7,5 +7,6 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.tooltip.initialDelay" value="591" />
+    <entry key="i18n.locale" value="" />
   </component>
 </application>
