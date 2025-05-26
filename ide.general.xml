@@ -7,6 +7,5 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="documentation.show.toolbar" value="true" source="SYSTEM" />
     <entry key="ide.tooltip.initialDelay" value="591" source="SYSTEM" />
-    <entry key="completion.cloud.enableTextCompletion" value="false" source="MANAGER" />
   </component>
 </application>

@@ -1,31 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
-    </driver>
-    <driver id="sqlserver.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="7.2.1" />
-    </driver>
-    <driver id="mysql.8" driver-class="com.mysql.jdbc.Driver">
-      <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" channel="fixed" rolling="false" use="true" version="8.0.25" />
-    </driver>
-    <driver id="mysql">
-      <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
-    </driver>
-    <driver id="oracle">
-      <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
-    </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
-    </driver>
-    <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
-    </driver>
-    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
-    <driver id="e3d9d30d-c6b3-4329-ab02-ccf1e11d1376" name="User Driver [2]" driver-class="java.sql.Driver">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
     </driver>
   </component>
 </application>
