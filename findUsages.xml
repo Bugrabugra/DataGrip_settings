@@ -1,0 +1,7 @@
+<application>
+  <component name="FindUsagesSettings">
+    <option name="customScope" value="Project 'SQL'" />
+    <option name="defaultScopeName" value="Project 'SQL'" />
+    <option name="SEARCH_SCOPE" value="Project 'SQL'" />
+  </component>
+</application>
