@@ -1,0 +1,55 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value=".*\.meta(data)?$" />
+            <option name="pattern" value=".*\.meta(data)?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Metadata" />
+            <option name="icon" value="/icons/files/metadata.svg" />
+            <option name="iconColor" value="FFC61B" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
+        </option>
+      </SelectedAssociations>
+    </option>
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="associationsList">
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(query|queries)$" />
+            <option name="pattern" value="^[\._]?(query|queries)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Queries" />
+            <option name="icon" value="/queries.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="00BFA5" />
+            <option name="folderIconColor" value="A7FFEB" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+            <option name="pattern" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="SQL" />
+            <option name="icon" value="/sql.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="0288D1" />
+            <option name="folderIconColor" value="b2dfdb" />
+            <option name="iconPack" />
+          </RegexAssociation>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

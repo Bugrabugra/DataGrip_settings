@@ -1,5 +1,6 @@
 <application>
   <component name="NextEditSettings"><![CDATA[{
-  "enabled": false
+  "enabled": false,
+  "legacyMlCompletionResetApplied": true
 }]]></component>
 </application>
