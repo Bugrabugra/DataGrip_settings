@@ -13,5 +13,6 @@
     <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
     <entry key="llm.chat.default.agent.rollout.enabled" value="true" source="MANAGER" />
     <entry key="llm.chat.session.feedback.widget.enabled" value="true" source="MANAGER" />
+    <entry key="i18n.locale" value="en" source="SYSTEM" />
   </component>
 </application>
